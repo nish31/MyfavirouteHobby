@@ -1,0 +1,21 @@
+#Minecraftimg{
+    width:400px;
+    border-radius:100px;
+    height: 250px;
+}
+body{
+   text-align:center;
+}
+.line{
+    height:6px;
+    width:150px;
+    background-color:blueviolet;
+    margin:8px auto;
+}
+img{
+    width:600px;
+}
+.Captions{
+    font-size:25px;
+}
+
